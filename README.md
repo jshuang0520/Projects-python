@@ -8,3 +8,4 @@
 
  - [Kaggle : Titanic](https://www.kaggle.com/c/titanic)
  - [2017.09.13的上傳結果](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.13%20my%20eighth%20submission%20of%20Titanic.ipynb)
+ - [2017.09.14 改版結果](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.14%20Titanic%20version%202.ipynb)
