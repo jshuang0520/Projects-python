@@ -2,7 +2,7 @@
 
 ### 簡介
 
-這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)用程式語言Python 做出的檔案
+這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)用 Python 練習所做出的檔案
 
 ### 大綱
 
