@@ -7,7 +7,8 @@
 ### 大綱
 
  - [Kaggle : Titanic](https://www.kaggle.com/c/titanic)
- - [2017.09.13的上傳結果](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.13%20my%20eighth%20submission%20of%20Titanic.ipynb)
- - [2017.09.14 改版結果](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.14%20Titanic%20version%202.ipynb)
- - [2017.09.15](http://nbviewer.jupyter.org/github/jshuang0520/Titanic-python/blob/master/2017.09.15%20Titanic%20-%20Feature%20Engineering.ipynb)
- - [2017.09.18](http://nbviewer.jupyter.org/github/jshuang0520/Titanic-python/blob/master/2017.09.18%20Titanic%20version%202.ipynb)
+ - [2017.09.13 上傳結果](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.13%20my%20eighth%20submission%20of%20Titanic.ipynb)
+ - [2017.09.14 版](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.14%20Titanic%20version%202.ipynb)
+ - [2017.09.15 版](http://nbviewer.jupyter.org/github/jshuang0520/Titanic-python/blob/master/2017.09.15%20Titanic%20-%20Feature%20Engineering.ipynb)
+ - [2017.09.18 版](http://nbviewer.jupyter.org/github/jshuang0520/Titanic-python/blob/master/2017.09.18%20Titanic%20version%202.ipynb)
+ - [2017.09.21 版](http://nbviewer.jupyter.org/github/jshuang0520/Titanic-python/blob/master/2017.09.21%20Titanic%20-%20make_more_features.ipynb)
