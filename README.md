@@ -2,7 +2,7 @@
 
 ### 簡介
 
-這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)用 Python 練習所做出的檔案
+這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)用 Python 練習所做出的檔案，[網頁版](https://jshuang0520.github.io/Titanic-python/)
 
 ### 大綱
 
