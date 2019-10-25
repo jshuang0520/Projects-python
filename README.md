@@ -6,8 +6,7 @@
 
 ### 大綱
 
-## [Kaggle - Titanic - classification problem](https://www.kaggle.com/c/titanic)
-
+### Kaggle - Titanic - classification problem [競賽說明](https://www.kaggle.com/c/titanic)
  - [09/13 上傳結果](https://github.com/jshuang0520/Projects-python/blob/master/2017.09.13%20my%20eighth%20submission%20of%20Titanic.ipynb)
  - [09/14 版](https://github.com/jshuang0520/Projects-python/blob/master/2017.09.14%20Titanic%20version%202.ipynb)
  - [09/15 nbviewer版](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/2017.09.15%20Titanic%20-%20Feature%20Engineering.ipynb)
@@ -18,12 +17,10 @@
 
 ## [第二屆機器學習百日馬拉松 - 個人github筆記](https://github.com/jshuang0520/2nd-ML100Days)
 
-### [期中考 - Coupon Useage Prediction](https://www.kaggle.com/c/ml100marathon-02-01)
-
+### 期中考 - Coupon Useage Prediction [競賽說明](https://www.kaggle.com/c/ml100marathon-02-01)
 - [ML - Coupon Useage Prediction](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/Day_051To053_HW_ver7.ipynb) - [score](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/Day_051To053_HW/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-13%20%E4%B8%8A%E5%8D%889.07.26.png)
 
 
-### [期末考 - Dog Cat Image Classification](https://www.kaggle.com/c/ml-marathon-final)
-
+### 期末考 - Dog Cat Image Classification [競賽說明](https://www.kaggle.com/c/ml-marathon-final)
 - [CNN - Dog Cat Image Classificaiton](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/Day_101To103_HW_ver13.ipynb) - [score](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/Day_101To103_HW/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-18%20%E4%B8%8A%E5%8D%8811.30.36.png)
 
