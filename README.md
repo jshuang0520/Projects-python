@@ -18,5 +18,5 @@
 
 ### [Kaggle - Dog Cat Image classification problem](https://www.kaggle.com/c/ml-marathon-final)
 ---
- - [CNN - Dog Cat Image Classificaiton](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/Day_101To103_HW_ver13.ipynb) [score](https://github.com/jshuang0520/Projects-python/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-18%20%E4%B8%8A%E5%8D%8811.30.36.png)
+ - [CNN - Dog Cat Image Classificaiton](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/Day_101To103_HW_ver13.ipynb) - [score](https://github.com/jshuang0520/Projects-python/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-18%20%E4%B8%8A%E5%8D%8811.30.36.png)
 
