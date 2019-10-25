@@ -6,7 +6,7 @@
 
 ### 大綱
 
-## [Kaggle - Titanic - classification problem](https://www.kaggle.com/c/titanic)
+### [Kaggle - Titanic - classification problem](https://www.kaggle.com/c/titanic)
 --
 
  - [09/13 上傳結果](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/2017.09.13%20my%20eighth%20submission%20of%20Titanic.ipynb)
@@ -17,7 +17,7 @@
 
 
 
-## [Kaggle - Dog Cat Image classification problem](https://www.kaggle.com/c/ml-marathon-final)
+### [Kaggle - Dog Cat Image classification problem](https://www.kaggle.com/c/ml-marathon-final)
 --
 
  - [CNN - Dog Cat Image Classificaiton](https://github.com/jshuang0520/python-classification-kaggle-Titanic/blob/master/Day_101To103_HW_ver13.ipynb)
