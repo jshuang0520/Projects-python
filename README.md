@@ -15,7 +15,8 @@
 
 -----
 
-## [第二屆機器學習百日馬拉松 - 個人github筆記](https://github.com/jshuang0520/2nd-ML100Days)
+## 第二屆機器學習百日馬拉松 - [活動介紹](https://www.accupass.com/event/1902140413141641002538) - [個人github筆記](https://github.com/jshuang0520/2nd-ML100Days)
+
 
 ### 期中考 - Coupon Useage Prediction [競賽說明](https://www.kaggle.com/c/ml100marathon-02-01)
 - [ML - Coupon Useage Prediction](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/Day_051To053_HW_ver7.ipynb) - [score](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/Day_051To053_HW/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-13%20%E4%B8%8A%E5%8D%889.07.26.png)
