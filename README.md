@@ -27,4 +27,4 @@
 
 
 #### Kaggle - New York City Taxi Fare Prediction - regression problem [競賽說明](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/)
-- [kernel](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/NYC_taxi.ipynb)
+- [NYC taxi fare prediction](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/NYC_taxi.ipynb)
