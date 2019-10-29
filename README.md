@@ -24,6 +24,7 @@
 - [CNN - Dog Cat Image Classificaiton](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/Day_101To103_HW_ver13.ipynb) - [score](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/Day_101To103_HW/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-18%20%E4%B8%8A%E5%8D%8811.30.36.png)
 
 
+-----
 
 
 #### Kaggle - New York City Taxi Fare Prediction - regression problem [競賽說明](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/)
