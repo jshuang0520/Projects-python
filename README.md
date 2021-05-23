@@ -19,6 +19,7 @@
 
 #### 實作 - Coupon Useage Prediction [競賽說明](https://www.kaggle.com/c/ml100marathon-02-01)
 - [ML - Coupon Usage Prediction](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/Day_051To053_HW_ver7.ipynb) - [score](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/Day_051To053_HW/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-13%20%E4%B8%8A%E5%8D%889.07.26.png)
+- Coupon Usage Prediction - version_2 | [jupyter notebook](http://nbviewer.jupyter.org/github/jshuang0520/using-coupon-prediction/blob/master/coupon.ipynb) | [src package](https://github.com/jshuang0520/using-coupon-prediction)
 
 #### 實作 - Dog Cat Image Classification [競賽說明](https://www.kaggle.com/c/ml-marathon-final)
 - [CNN - Dog Cat Image Classification](http://nbviewer.jupyter.org/github/jshuang0520/Projects-python/blob/master/Day_101To103_HW_ver13.ipynb) - [score](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/Day_101To103_HW/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-18%20%E4%B8%8A%E5%8D%8811.30.36.png)
